@@ -1,5 +1,7 @@
 #include <UIPEthernet.h>
 #include "DHT.h"
+
+
 #define DHTPIN A2     // Analogic A2 pin
 #define DHTTYPE DHT11 // DHT 11
 
